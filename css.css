@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-color: rgb(214, 210, 204);
+    height: 56px;
+    display: flex;
+    font-family: "Ubuntu", serif;
+    align-items: center;
+    justify-content: space-between;
+}
+.se{
+    height: 56px;
+    background-color:  rgb(214, 210, 204);
+    display: flex;
+    font-size: 24px;
+    gap: 28px;
+    margin: 0 0 0 188px;
+    align-items: center;
+}
+
+.se img{
+    margin: 0 0 0 33px;
+    height: 24px;
+}
+.ff{
+    margin: 0 188px 0 0 ;
+    gap: 16px;
+    align-items: center;
+    display: flex;
+}   
